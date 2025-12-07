@@ -48,7 +48,7 @@ Hello, I'm **Alex**. I specialize in **Full-stack programming**, **Firmware deve
 
 ### 🛠 Technical Arsenal
 
-**Low-Level, Firmware & Robotics**
+**Core Languages & Systems**
 <br>
 <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
@@ -56,6 +56,12 @@ Hello, I'm **Alex**. I specialize in **Full-stack programming**, **Firmware deve
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
 <img src="https://img.shields.io/badge/ROS-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+
+**Hardware Platforms & Embedded Systems**
+<br>
+<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+<img src="https://img.shields.io/badge/Rockchip-E41E26?style=for-the-badge&logo=arm&logoColor=white" />
+<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" />
 
 **Artificial Intelligence & Data Science**
 <br>
@@ -69,9 +75,14 @@ Hello, I'm **Alex**. I specialize in **Full-stack programming**, **Firmware deve
 <br>
 <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
+
+**Design & Prototyping**
+<br>
+<img src="https://img.shields.io/badge/Penpot-%23000000?style=for-the-badge&logo=penpot&logoColor=white" />
+<img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
+<img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
 
 ---
 
